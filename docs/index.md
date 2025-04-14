@@ -6,8 +6,10 @@ Welcome to my data analytics portfolio! Below are my Power BI dashboards and rep
 
 ## 1. Business Analytics by Region
 
-![Business Analytics](Business%20Analytics%20by%20Region%20Dashboard.png)  
+<img src="Business%20Analytics%20by%20Region%20Dashboard.png" alt="Business Analytics Dashboard" width="100%" />
+
 [**View Power BI File**](https://1drv.ms/u/c/3be9020214b3327c/EfIerdrUkDNLnQho06kkAOUBQxYSUYfARPSK1HEXP38Cnw?e=OECQ1j)
+
 
 ---
 
